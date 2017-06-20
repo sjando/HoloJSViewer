@@ -1,0 +1,3 @@
+[submodule "HoloJS"]
+	path = HoloJS
+	url = https://github.com/sjando/HoloJS.git
